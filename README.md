@@ -229,7 +229,9 @@ Alzheimer's/dementia, heart failure, chronic kidney disease, cancer, COPD, depre
 ├── powerbi/
 │   └── dashboard_analysis_for_medicare.pbix
 ├── docs/
-│   └── screenshots/
+│  ├── screenshots/
+│  ├── SynPUF_DUG
+│  ├── DE 1.O Codebook 
 └── README.md
 ```
 
